@@ -355,7 +355,7 @@ const layoutArrow = function (imageHeight, iconHeight) {
   return {
     position: 'absolute',
     backgroundColor: 'transparent',
-    justifyContent: 'flex-start',
+    justifyContent: 'center',
     alignItems: 'flex-start',
     top: (imageHeight-iconHeight)/2,
     bottom: (imageHeight-iconHeight)/2,
